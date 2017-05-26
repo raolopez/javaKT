@@ -13,6 +13,7 @@ public class Auto {
 	}
 
 	public static void main(String[] args) {
+		Auto auto1 = new Auto();
 		System.out.println("Hello everyone...");
 	}
 }
